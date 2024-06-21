@@ -38,7 +38,7 @@ I have made 5 detailed examples about each category of Design Patterns, you can 
 Creational patterns deal with object creation mechanisms, aiming to create objects in a manner suitable to the situation. These patterns provide various ways to instantiate objects, which increase the flexibility and reuse of existing code.
 
 ____________________________
-● Singleton Design Pattern:
+● **Singleton Design Pattern:**
 
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. This is useful when exactly one object is needed to coordinate actions across the system.
 
@@ -46,7 +46,7 @@ The Singleton pattern ensures that a class has only one instance and provides a 
 
 *Project-Reference: SingletonDesignPattern.dll*
 _________________
-● Factory Method:
+● **Factory Method:**
 
 The Factory Method pattern defines an interface for creating an object but lets subclasses alter the type of objects that will be created. This pattern promotes loose coupling by eliminating the need to bind application-specific classes into the code.
 
@@ -54,7 +54,7 @@ The Factory Method pattern defines an interface for creating an object but lets 
 
 *Project-Reference: FactoryDesignPattern.dll*
 ___________________
-● Abstract Factory:
+● **Abstract Factory:**
 
 The Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes. It involves a super-factory which creates other factories, also known as a factory of factories.
 
@@ -62,7 +62,7 @@ The Abstract Factory pattern provides an interface for creating families of rela
 
 *Project-Reference: AbstractFactoryTraining.dll*
 ____________________________
-● Prototype Design Pattern:
+● **Prototype Design Pattern:**
 
 The Prototype pattern specifies the kinds of objects to create using a prototypical instance, and creates new objects by copying this prototype. This is useful when the cost of creating a new object is expensive or complicated.
 
@@ -70,7 +70,7 @@ The Prototype pattern specifies the kinds of objects to create using a prototypi
 
 *Project-Reference: PrototypeDesignPattern.dll*
 __________________________
-● Builder Design Pattern:
+● **Builder Design Pattern:**
 
 The Builder pattern separates the construction of a complex object from its representation, allowing the same construction process to create different representations. This pattern is useful when creating complex objects step by step.
 
@@ -86,7 +86,7 @@ The Builder pattern separates the construction of a complex object from its repr
 Structural patterns concern class and object composition. They use inheritance to compose interfaces and define ways to compose objects to obtain new functionalities.
 
 ____________________________
-● Adapter Design Pattern:
+● **Adapter Design Pattern:**
 
 The Adapter pattern converts the interface of a class into another interface clients expect. This allows classes with incompatible interfaces to work together.
 
@@ -94,7 +94,7 @@ The Adapter pattern converts the interface of a class into another interface cli
 
 *Project-Reference: AdapterDesignPattern.dll*
 ____________________________
-● Bridge Design Pattern:
+● **Bridge Design Pattern:**
 
 The Bridge pattern decouples an abstraction from its implementation so that the two can vary independently. This is useful when both the class and what it does vary often.
 
@@ -102,7 +102,7 @@ The Bridge pattern decouples an abstraction from its implementation so that the 
 
 *Project-Reference: BridgeDesignPattern.dll*
 ____________________________
-● Composite Design Pattern:
+● **Composite Design Pattern:**
 
 The Composite pattern composes objects into tree structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions of objects uniformly.
 
@@ -110,7 +110,7 @@ The Composite pattern composes objects into tree structures to represent part-wh
 
 *Project-Reference: CompositeDesignPattern.dll*
 ____________________________
-● Decorator Design Pattern:
+● **Decorator Design Pattern:**
 
 The Decorator pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 
@@ -118,7 +118,7 @@ The Decorator pattern attaches additional responsibilities to an object dynamica
 
 *Project-Reference: DecoratorDesignPattern.dll*
 ____________________________
-● Facade Design Pattern:
+● **Facade Design Pattern:**
 
 The Facade pattern provides a unified interface to a set of interfaces in a subsystem. It defines a higher-level interface that makes the subsystem easier to use.
 
@@ -134,7 +134,7 @@ The Facade pattern provides a unified interface to a set of interfaces in a subs
 Behavioral patterns are concerned with algorithms and the assignment of responsibilities between objects. These patterns help define how objects interact and communicate with each other.
 
 _________________________________________
-● Chain of Responsibility Design Pattern:
+● **Chain of Responsibility Design Pattern:**
 
 The Chain of Responsibility pattern lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 
@@ -142,7 +142,7 @@ The Chain of Responsibility pattern lets you pass requests along a chain of hand
 
 *Project-Reference: CORDesignPattern.dll*
 ____________________________
-● Command Design Pattern:
+● **Command Design Pattern:**
 
 The Command pattern encapsulates a request as an object, thereby allowing you to parameterize clients with different requests, queue or log requests, and support undoable operations.
 
@@ -150,7 +150,7 @@ The Command pattern encapsulates a request as an object, thereby allowing you to
 
 *Project-Reference: CommandDesignPattern.dll*
 ____________________________
-● Iterator Design Pattern:
+● **Iterator Design Pattern:**
 
 The Iterator pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation. It allows traversal of the elements in a collection.
 
@@ -158,7 +158,7 @@ The Iterator pattern provides a way to access the elements of an aggregate objec
 
 *Project-Reference: IteratorDesignPattern.dll*
 ____________________________
-● Observer Design Pattern:
+● **Observer Design Pattern:**
 
 The Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. This is often used in implementing distributed event-handling systems.
 
@@ -166,7 +166,7 @@ The Observer pattern defines a one-to-many dependency between objects so that wh
 
 *Project-Reference: ObserverDesignPattern.dll*
 __________________________________
-● Template Method Design Pattern:
+● **Template Method Design Pattern:**
 
 The Template Method pattern defines the skeleton of an algorithm in an operation, deferring some steps to subclasses. It lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
 

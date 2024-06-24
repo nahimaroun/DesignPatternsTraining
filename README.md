@@ -90,7 +90,7 @@ If there are any dependencies, ensure they are installed. Typically, dependencie
     
 ### Notes
 
-- The examples are written in C#.
+- The examples are written in a C# Console Application.
 - Ensure your Visual Studio is updated to the latest version to avoid any compatibility issues.
 - If you encounter any issues, check the .NET version and make sure it's correctly installed.
 

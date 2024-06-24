@@ -61,7 +61,7 @@ Ensure you have the following prerequisites installed on your machine:
     - Set `MainConsoleApp` as the startup project.
     - Run the `Program.cs` file
 
-**And if you find these steps comlicated, there is a simpler way**
+**And if you find these steps complicated, there is a simpler way**
 
 1. **Open visual studio**
  

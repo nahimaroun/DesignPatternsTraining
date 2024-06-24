@@ -64,11 +64,15 @@ Ensure you have the following prerequisites installed on your machine:
 And if you find these steps comlicated, there is a simpler way
 
 1. **Open visual studio**
+2. 
    On the welcome screen press on clone a Respository
+   
 ![Image1](https://github.com/nahimaroun/DesignPatternsTraining/assets/127951295/db03a83b-980c-4bd6-b45c-fe8a6778ac14)
 
 2.**Paste the repository link**
+
    Paste the link in Visual studip and give the project a valid path 
+   
    ![Image2](https://github.com/nahimaroun/DesignPatternsTraining/assets/127951295/5d284adc-ae79-4147-a6f6-73f80d4b59dd)
 
 3. **You will still need to install Dependencies**

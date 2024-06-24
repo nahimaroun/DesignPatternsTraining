@@ -67,7 +67,8 @@ Ensure you have the following prerequisites installed on your machine:
  
    On the welcome screen press on clone a Respository
    
-![Image1](https://github.com/nahimaroun/DesignPatternsTraining/assets/127951295/db03a83b-980c-4bd6-b45c-fe8a6778ac14)
+ ![Image1](https://github.com/nahimaroun/DesignPatternsTraining/assets/127951295/4169f501-bcad-4948-b7a7-f3299a429216)
+
 
 2.**Paste the repository link**
 

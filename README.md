@@ -102,6 +102,9 @@ This project covers the following design patterns:
 
 I have made 5 detailed examples about each category of Design Patterns, you can run them and check out the code to learn about these design patterns and how they're implemented. These examples are very basic examples and no one would use them for such basic tasks, but our goal here is to learn not complicate our lives.
 
+Here's a brief explanation of the code inside the "MainConsoleApp":
+
+The program starts by defining a dictionary of design pattern categories, each containing a list of DLL files corresponding to different design pattern examples. The main loop presents the user with options to select a category or exit the program. Upon selecting a category, the user is shown a list of examples within that category. When an example is selected, the program uses reflection to dynamically load the corresponding assembly (DLL file) and invoke its Main method, running the example. If the user chooses to exit, the program terminates. This approach allows for flexible execution of various design pattern examples without hardcoding each example into the main program.
 
 
 ## ○ Creational Patterns:

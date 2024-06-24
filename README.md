@@ -13,13 +13,82 @@ Welcome to the **Design Patterns Project**! This project is a comprehensive guid
 - [References](#-References)
 
 ## 🛠 Installation
-To get started with the project, clone the repository and install the necessary dependencies.
 
-git clone https://github.com/nahimaroun/Nova4ApiTraining.git
+To get started with the Design Patterns project, follow these steps to clone the repository and install the necessary dependencies.
 
-cd DP Training/DesignPatternsTraining
+### Prerequisites
 
-Install dependencies (if any)
+Ensure you have the following prerequisites installed on your machine:
+
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or [Visual Studio 2022 Version 17.9](https://visualstudio.microsoft.com/vs/whatsnew/)
+
+### Steps
+
+1. **Clone the Repository**
+
+    ```bash
+    git clone https://github.com/nahimaroun/Nova4ApiTraining.git
+    ```
+
+2. **Navigate to the Project Directory**
+
+    ```bash
+    cd Nova4ApiTraining/DP_Training/DesignPatternsTraining
+    ```
+
+3. **Install Dependencies**
+
+    If there are any dependencies, ensure they are installed. Typically, dependencies for C# projects are managed via NuGet. Open the project in Visual Studio and restore the NuGet packages.
+
+    ```bash
+    dotnet restore
+    ```
+
+4. **Build the Project**
+
+    Build the solution to ensure all projects compile correctly.
+
+    ```bash
+    dotnet build
+    ```
+
+5. **Run the Examples**
+
+    All examples are implemented as Class Libraries. To run them:
+
+    - Open `MainConsoleApp` in Visual Studio.
+    - Set `MainConsoleApp` as the startup project.
+    - Run the `Program.cs` file
+
+And if you find these steps comlicated, there is a simpler way
+
+1. **Open visual studio**
+   On the welcome screen press on clone a Respository
+![Image1](https://github.com/nahimaroun/DesignPatternsTraining/assets/127951295/db03a83b-980c-4bd6-b45c-fe8a6778ac14)
+
+2.**Paste the repository link**
+   Paste the link in Visual studip and give the project a valid path 
+   ![Image2](https://github.com/nahimaroun/DesignPatternsTraining/assets/127951295/5d284adc-ae79-4147-a6f6-73f80d4b59dd)
+
+3. **You will still need to install Dependencies**
+
+    If there are any dependencies, ensure they are installed. Typically, dependencies for C# projects are managed via NuGet. Open the project in Visual Studio and restore the NuGet packages.
+
+4.**Run the Examples**
+
+    All examples are implemented as Class Libraries. To run them:
+
+    - Open `MainConsoleApp` in Visual Studio.
+    - Set `MainConsoleApp` as the startup project.
+    - Run the `Program.cs` file
+    
+### Notes
+
+- The examples are written in C#.
+- Ensure your Visual Studio is updated to the latest version to avoid any compatibility issues.
+- If you encounter any issues, check the .NET version and make sure it's correctly installed.
+
 
 ## 🧩 Design Patterns
 This project covers the following design patterns:
@@ -29,9 +98,7 @@ This project covers the following design patterns:
 
 I have made 5 detailed examples about each category of Design Patterns, you can run them and check out the code to learn about these design patterns and how they're implemented. These examples are very basic examples and no one would use them for such basic tasks, but our goal here is to learn not complicate our lives.
 
-(The language used to code these examples:  C# ) 
 
-(All these Examples are made in Class Libraries, To run them Go to "MainConsoleApp" and run the "Program.cs" file)
 
 ## ○ Creational Patterns:
 

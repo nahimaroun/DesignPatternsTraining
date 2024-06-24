@@ -61,7 +61,7 @@ Ensure you have the following prerequisites installed on your machine:
     - Set `MainConsoleApp` as the startup project.
     - Run the `Program.cs` file
 
-And if you find these steps comlicated, there is a simpler way
+**And if you find these steps comlicated, there is a simpler way**
 
 1. **Open visual studio**
  
@@ -77,15 +77,15 @@ And if you find these steps comlicated, there is a simpler way
 
 3. **You will still need to install Dependencies**
 
-    If there are any dependencies, ensure they are installed. Typically, dependencies for C# projects are managed via NuGet. Open the project in Visual Studio and restore the NuGet packages.
+If there are any dependencies, ensure they are installed. Typically, dependencies for C# projects are managed via NuGet. Open the project in Visual Studio and restore the NuGet packages.
 
 4.**Run the Examples**
 
-    All examples are implemented as Class Libraries. To run them:
+ All examples are implemented as Class Libraries.Torun them:
 
-    - Open `MainConsoleApp` in Visual Studio.
-    - Set `MainConsoleApp` as the startup project.
-    - Run the `Program.cs` file
+ - Open `MainConsoleApp` in Visual Studio.
+ - Set `MainConsoleApp` as the startup project.
+ - Run the `Program.cs` file
     
 ### Notes
 

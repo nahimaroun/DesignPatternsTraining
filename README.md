@@ -20,8 +20,8 @@ To get started with the Design Patterns project, follow these steps to clone the
 
 Ensure you have the following prerequisites installed on your machine:
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or [Visual Studio 2022 Version 17.9](https://visualstudio.microsoft.com/vs/whatsnew/)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or later.
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or [Visual Studio 2022 Version 17.9](https://visualstudio.microsoft.com/vs/whatsnew/) or later.
 
 ### Steps
 

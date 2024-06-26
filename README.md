@@ -76,6 +76,7 @@ Ensure you have the following prerequisites installed on your machine:
    
    ![Image2](https://github.com/nahimaroun/DesignPatternsTraining/assets/127951295/5d284adc-ae79-4147-a6f6-73f80d4b59dd)
 
+
 3. **You will still need to install Dependencies**
 
 If there are any dependencies, ensure they are installed. Typically, dependencies for C# projects are managed via NuGet. Open the project in Visual Studio and restore the NuGet packages.

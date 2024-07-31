@@ -228,8 +228,7 @@ The Command pattern encapsulates a request as an object, thereby allowing you to
 ____________________________
 ● **Iterator Design Pattern:**
 
-The Iterator pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation. It allows traversal of the elements in a collection.
-
+Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
 ![iterator-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/db4a2bc6-12fb-4c81-8f02-fdbd0b6c683a)
 
 *Project-Reference: IteratorDesignPattern.dll*

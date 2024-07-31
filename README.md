@@ -229,6 +229,7 @@ ____________________________
 ● **Iterator Design Pattern:**
 
 Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+
 ![iterator-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/db4a2bc6-12fb-4c81-8f02-fdbd0b6c683a)
 
 *Project-Reference: IteratorDesignPattern.dll*
